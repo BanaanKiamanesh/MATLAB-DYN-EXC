@@ -1,3 +1,5 @@
+>> if this doesn't show up correctly checkout the PDF file.
+
 Non-Linear Card Pole System Analysis and Controller/Observer Design using MATLABs Symbolic and Control Toolbox.
 
 
